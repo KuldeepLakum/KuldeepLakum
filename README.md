@@ -3,7 +3,7 @@
 
 I was complited a Bachelor's degree in Computer Science Engineering, where I developed strong skills in problem-solving.<br>
 
-💻 Proficient in  JavaScript, React.js, SQL, and Data Structures.<br>🔭 I’m currently working on Web Development projects.<br>🌱 I’m currently learning MERN Stack 
+💻 Proficient in  JavaScript, React.js.<br>🔭 I’m currently working on Web Development projects.<br>🌱 I’m currently learning MERN Stack 
 
 ###
 
