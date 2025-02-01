@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi! I'm Pratham Chaudhary, a result-oriented software engineer passionate about innovation. <br>   I hold a Bachelor's degree in Computer Science Engineering, where I developed strong skills in problem-solving and machine learning.<br><br>💻 Proficient in Java, JavaScript, React.js, Python, OOP, SQL, and Data Structures.<br>An Oracle Certified Associate Java SE 8 Programmer, I excel at tackling complex problems.<br><br>🔭 I’m currently working on Web Development projects.<br>🌱 I’m currently learning MERN Stack and DSA in JAVA
+👋 Hi! I'm Kuldeep Lakum, Passionate Frontend Developer crafting responsive, user-friendly web experiences with modern frameworks. Turning ideas into sleek, high-performing interfaces! 🚀 <br>   I was complited a Bachelor's degree in Computer Science Engineering, where I developed strong skills in problem-solving.<br>💻 Proficient in  JavaScript, React.js, SQL, and Data Structures.<br>🔭 I’m currently working on Web Development projects.<br>🌱 I’m currently learning MERN Stack 
 
 ###
 
