@@ -1,7 +1,9 @@
 # 💫 About Me:
 👋 Hi! I'm Kuldeep Lakum, Passionate Frontend Developer crafting responsive, user-friendly web experiences with modern frameworks. Turning ideas into sleek, high-performing interfaces! 🚀 <br> 
 
-I was complited a Bachelor's degree in Computer Science Engineering, where I developed strong skills in problem-solving.<br>
+I was complited a Bachelor's degree in Computer Science Engineering, where I developed strong skills in problem-solving.<br> 
+
+https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif
 
 💻 Proficient in  JavaScript, React.js.<br>🔭 I’m currently working on Web Development projects.<br>🌱 I’m currently learning MERN Stack 
 
